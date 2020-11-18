@@ -10,4 +10,5 @@ The workspace contains two folders by default, where:
 3) O código foi testado em um Windows 10
 4) Descompactar em uma diretório e executar os comandos abaixo:
 cd monitor
+
 java com.ilegra.prova.Main
